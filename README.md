@@ -26,12 +26,21 @@ Este repositório contém uma coleção de projetos que desenvolvi durante o cur
 
 
 ### Como Usar
-
 Para clonar e executar estes projetos localmente, siga estas etapas simples:
 
-1. Clone este repositório: `git clone https://github.com/Rhulys/curso-react`
-2. Navegue até o diretório do projeto que você deseja explorar: `cd nome-do-projeto`
-3. Abra o arquivo `index.html` no seu navegador web.
+1 - Clone este repositório:
+git clone https://github.com/Rhulys/curso-react
+
+2 - Navegue até o diretório do projeto que você deseja explorar:
+cd nome-do-projeto
+
+3 - Instale as dependências do projeto:
+npm install
+
+4 - Execute o projeto:
+npm start
+
+5 - Abra o projeto no seu navegador web. Normalmente, o projeto estará disponível em http://localhost:3000.
 
 ### Contribuições
 
